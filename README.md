@@ -1,6 +1,7 @@
 # Civic
 Civic was an open-source project made to 'connect people to politics' through the ability of their phone.
 We built this application using React Native for mobile development with Redux Saga for data fetching.
+Has recently merged several parts of the application with [BallotReady](ballotready.com)
 
 ### Timeline
 The timeline for this project was only a few months, and I joined this group around September 2018 until the midterms in November 2018.
